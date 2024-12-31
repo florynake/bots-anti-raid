@@ -1,0 +1,9 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "clientId": "YOUR_CLIENT_ID",
+    "guildId": "YOUR_GUILD_ID",
+    "ownerRoleId": "YOUR_OWNER_ROLE_ID",
+    "logs": "YOUR_LOGS_CHANNEL_ID",
+    "permissionChLink": "YOUR_LINK_PERMISSION_CHANNEL_ID"
+
+}
